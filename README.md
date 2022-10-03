@@ -1,0 +1,1 @@
+# nuxt-ionic-with-amplify
